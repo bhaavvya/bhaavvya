@@ -8,7 +8,7 @@
 <div><img src="https://github-profile-trophy.vercel.app/?username=bhaavvya&theme=monokai" /></div>
 <h1> :fire: My Stats :</h1>
 <div><img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" /></div>
-<div><img src="![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=radical)" /></div><br>
+<div><img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=tokyonight" /></div><br>
 
 - 🔭 I’m currently working on DSA and skill building.<br>
 - 🌱 I’m currently learning Machine learning.<br>
