@@ -1,4 +1,4 @@
-<div id="header" align="center"> <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="100"/> </div> </div> ### Hey there, I'm Bhavya Verma 
+<div id="header"> <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" height="100" width="100"/> </div> </div> ### Hey there, I'm Bhavya Verma 
 
 <!--
 **bhaavvya/bhaavvya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
