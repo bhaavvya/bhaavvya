@@ -7,8 +7,7 @@ Hello, I am Bhavya Verma a sophomore at K.J Somaiya College of Engineering, Mumb
 
 <div><hr></div>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark)](https://git.io/streak-stats)
-Here are some ideas to get you started:
+<div><img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark)](https://git.io/streak-stats)"/></div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
