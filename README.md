@@ -1,4 +1,4 @@
-<div><h1>Hey there, I'm Bhavya Verma <img src="https://media.giphy.com/media/2S9bs4uSqCqqA1VcO3/giphy.gif" width="50"/></h1> </div>
+<div><h1>Hey there <a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"></a>, I'm Bhavya Verma <img src="https://media.giphy.com/media/2S9bs4uSqCqqA1VcO3/giphy.gif" width="50"/></h1> </div>
 
 <div id="badges"> <a href="https://www.linkedin.com/in/bhavya-verma-754983247/"> <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="vermabhavya783@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> <a href="https://instagram.com/vermabhavya183?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="> <img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a> <a href="903604157347405844"> <img src="https://img.shields.io/badge/DISCORD-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> </a> </div>
 <div><hr></div>
@@ -19,7 +19,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -31,5 +30,5 @@ height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="Php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 </div>
-
--->
+<div><hr></div>
+<h1> : tick: My Projects</h1>
