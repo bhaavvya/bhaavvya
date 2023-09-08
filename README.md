@@ -3,13 +3,13 @@
 
 <div id="badges"> <a href="https://www.linkedin.com/in/bhavya-verma-754983247/"> <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="vermabhavya783@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> <a href="https://instagram.com/vermabhavya183?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="> <img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a> <a href="903604157347405844"> <img src="https://img.shields.io/badge/DISCORD-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> </a> </div>
 <div><hr></div>
-<p>Hello, I am <b>Bhavya Verma</b> a sophomore at <b>K.J Somaiya College of Engineering, Mumbai</b> pursing my bachelor's in Computer Science Engineering. I have a desire to solve real-world problems using technology. I intend to work on projects that involve Web Development or Machine Learning. When I'm not coding, you can find me on a Youtube channel <a href="https://www.youtube.com/@educationhive"><b>EDUCATION HIVE</b></a>. Feel free to check out my GitHub repository to see some of the projects I have worked on.</p><br>
+<p>Hello, I am <b>Bhavya Verma</b> a sophomore at <b>K.J Somaiya College of Engineering, Mumbai</b> pursing my bachelor's in Computer Science Engineering. I have a desire to solve real-world problems using technology. I intend to work on projects that involve Web Development or Machine Learning. When I'm not coding, you can find me on a Youtube channel <a href="https://www.youtube.com/@educationhive"><b>EDUCATION HIVE</b></a>. Feel free to check out my GitHub repository to see some of the projects I have worked on.</p>
 - 🔭 I’m currently working on DSA and skill building.<br>
 - 🌱 I’m currently learning Machine learning.<br>
 - 👯 I’m looking to collaborate on Open Source Projects.<br>
 - 📫 Reach me at: <a href="vermabhavya783@gmail.com">Gmail</a><br>
 - ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements.<br>
-
+<br>
 <div><img src="https://github-profile-trophy.vercel.app/?username=bhaavvya&theme=monokai" /></div>
 <h1> :fire: My Stats :</h1>
 <div><img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" /></div>
