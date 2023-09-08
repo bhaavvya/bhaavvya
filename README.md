@@ -6,9 +6,9 @@
 Hello, I am Bhavya Verma a sophomore at K.J Somaiya College of Engineering, Mumbai pursing my bachelor's in Computer Science Engineering. I have a desire to solve real-world problems using technology. I intend to work on projects that involve Web Development or Machine Learning. When I'm not coding, you can find me on a Youtube channel <div><a href="https://www.youtube.com/@educationhive"><b>EDUCATION HIVE</b></a></div>. Feel free to check out my GitHub repository to see some of the projects I have worked on.
 
 <div><hr></div>
-### :fire: My Stats :
+<h1> :fire: My Stats :</h1>
 <div><img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" /></div>
-
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaavvya" /></div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
