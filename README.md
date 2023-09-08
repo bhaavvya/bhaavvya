@@ -14,6 +14,6 @@ Hello, I am Bhavya Verma a sophomore at K.J Somaiya College of Engineering, Mumb
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 Reach me at: @vermabhavya783@gmail.com
 - ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements.
-<img src="https://github.com/bhaavvya/bhaavvya/assets/110487270/b92aea85-15ec-4ecf-913a-5af393aff316" />
+<img src="https://github.com/bhaavvya/bhaavvya/assets/" />
 
 -->
