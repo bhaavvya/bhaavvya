@@ -1,4 +1,3 @@
-<div><hr></div>
 <div><h1>Hey there, I'm Bhavya Verma <img src="https://media.giphy.com/media/2S9bs4uSqCqqA1VcO3/giphy.gif" width="50"/></h1> </div>
 <img src="https://komarev.com/ghpvc/?username=bhaavvya&style=flat-square&color=blue" alt=""/>
 
@@ -6,7 +5,7 @@
 <div><hr></div>
 Hello, I am Bhavya Verma a sophomore at K.J Somaiya College of Engineering, Mumbai pursing my bachelor's in Computer Science Engineering. I have a desire to solve real-world problems using technology. I intend to work on projects that involve Web Development or Machine Learning. When I'm not coding, you can find me on a Youtube channel <div><a href="https://www.youtube.com/@educationhive"><b>EDUCATION HIVE</b></a></div>. Feel free to check out my GitHub repository to see some of the projects I have worked on.
 
-<hr>
+<div><hr></div>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark)](https://git.io/streak-stats)
 Here are some ideas to get you started:
