@@ -8,12 +8,12 @@ Hello, I am Bhavya Verma a sophomore at K.J Somaiya College of Engineering, Mumb
 <div><img src="https://github-profile-trophy.vercel.app/?username=bhaavvya&theme=monokai" /></div>
 <h1> :fire: My Stats :</h1>
 <div><img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" /></div>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaavvya&theme=dark" /></div>
-- 🔭 I’m currently working on DSA and skill building.
-- 🌱 I’m currently learning Machine learning.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 📫 Reach me at: @vermabhavya783@gmail.com
-- ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements.
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaavvya&theme=dark" /></div><br>
+- 🔭 I’m currently working on DSA and skill building.<br>
+- 🌱 I’m currently learning Machine learning.<br>
+- 👯 I’m looking to collaborate on Open Source Projects.<br>
+- 📫 Reach me at: @vermabhavya783@gmail.com<br>
+- ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements.<br>
 <img src="https://github.com/bhaavvya/bhaavvya/assets/" />
 
 -->
