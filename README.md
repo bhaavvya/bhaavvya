@@ -31,4 +31,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 </div>
 <div><hr></div>
-<h1> : tick: My Projects</h1>
+<h1> ✔️: My Projects</h1>
+<p>Check my repositories 🥰</p>
