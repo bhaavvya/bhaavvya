@@ -12,7 +12,7 @@ Hello, I am Bhavya Verma a sophomore at K.J Somaiya College of Engineering, Mumb
 - 🔭 I’m currently working on DSA and skill building.<br>
 - 🌱 I’m currently learning Machine learning.<br>
 - 👯 I’m looking to collaborate on Open Source Projects.<br>
-- 📫 Reach me at: @vermabhavya783@gmail.com<br>
+- 📫 Reach me at: <a href="vermabhavya783@gmail.com">Gmail</a><br>
 - ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements.<br>
 <img src="https://github.com/bhaavvya/bhaavvya/assets/" />
 
