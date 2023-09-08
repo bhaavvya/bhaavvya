@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/qT3NpahR7tGnOqqjng" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng">via GIPHY</a></p>
+<div id="header" align="center"> <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/> </div>
 
 ### Hey there, I'm Bhavya Verma 
 
