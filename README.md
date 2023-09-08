@@ -5,7 +5,7 @@
 <div><hr></div>
 <p>Hello, I am <b>Bhavya Verma</b> a sophomore at <b>K.J Somaiya College of Engineering, Mumbai</b> pursing my bachelor's in Computer Science Engineering. I have a desire to solve real-world problems using technology. I intend to work on projects that involve Web Development or Machine Learning. When I'm not coding, you can find me on a Youtube channel <a href="https://www.youtube.com/@educationhive"><b>EDUCATION HIVE</b></a>. Feel free to check out my GitHub repository to see some of the projects I have worked on.</p>
 
-<div><img src="https://github-profile-trophy.vercel.app/?username=bhaavvya&theme=monokai" /></div>
+<div><img src="https://github-profile-trophy.vercel.app/?username=bhaavvya&theme=monokai" columns=8/></div>
 <h1> :fire: My Stats :</h1>
 <div><img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" /></div>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaavvya&theme=dark" /></div><br>
