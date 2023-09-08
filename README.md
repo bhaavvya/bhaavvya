@@ -1,4 +1,6 @@
-<div id="header"> <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" height="100" width="100"/> </div> </div> ### Hey there, I'm Bhavya Verma 
+<div id="header"> <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" height="100" width="100"/> </div> </div>
+<div id="badges"> <a href="https://www.linkedin.com/in/bhavya-verma-754983247/"> <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="vermabhavya783@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> <a href="https://instagram.com/vermabhavya183?utm_source=qr&igshid=MzNlNGNkZWQ4Mg=="> <img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a> <a href="903604157347405844"> <img src="https://img.shields.io/badge/DISCORD-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/> </a> </div>
+### Hey there, I'm Bhavya Verma 
 
 <!--
 **bhaavvya/bhaavvya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
