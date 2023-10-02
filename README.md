@@ -14,7 +14,7 @@
 <h1> :fire: My Stats :</h1>
 <div><img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" /></div>
 <div><img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=highcontrast" /></div><br>
-<div><img src="https://stats.quine.sh/bhaavvya/github?theme=dark" alt="Stats"/></div><br>
+<div><img src="https://stats.quine.sh/bhaavvya/github?theme=highcontrast" alt="Stats"/></div><br>
 
 <h1>🧰: Languages and Tools</h1>
 <div>
