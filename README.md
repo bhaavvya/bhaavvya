@@ -10,7 +10,6 @@
 - 📫 Reach me at: <strong><a href="mailto:vermabhavya783@gmail.com">vermabhavya783@gmail.com</a></strong><br>
 - ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements.<br>
 <br>
-<div><img src="https://github-profile-trophy.vercel.app/?username=bhaavvya&theme=monokai" /></div>
 <h1> :fire: My Stats :</h1>
 <div><img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" /></div>
 <div><img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=highcontrast" /></div><br>
