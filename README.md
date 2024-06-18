@@ -32,4 +32,4 @@
 </div>
 <div><hr></div>
 <h1> ✔️: My Projects</h1>
-<p>Check my repositories 🥰</p>
+<p>Check my pinned repositories 🥰</p>
