@@ -16,5 +16,11 @@
 <div><img src="https://stats.quine.sh/bhaavvya/github?theme=highcontrast" alt="Stats"/></div><br>
 
 <div><hr></div>
-<h1> ✔️: My Projects</h1>
-<p>Check my pinned repositories 🥰</p>
+
+| ** Repositories Highlights ** | 
+|------------------------|-------------------------|------------------------------|
+| [Ai_Assistant](https://github.com/bhaavvya/Ai_Assistant) |
+| [Chatbot-ChatG](https://github.com/bhaavvya/chatbot-chatG) |
+| [RFIT:Fitness Website](https://github.com/bhaavvya/Fitness_website-RFIT) |
+| [Amazon product Analysis](https://github.com/bhaavvya/Amazon_Product_Analysis) | 
+
