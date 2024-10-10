@@ -38,6 +38,9 @@
     <tr>
       <td><a href="https://github.com/bhaavvya/Amazon_Product_Analysis">Amazon Product Analysis</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/bhaavvya/X_tweets_sentiment-Analysis">X_tweets_sentiment_Analysis</a></td>
+    </tr>
   </tbody>
 </table>
 
