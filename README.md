@@ -17,10 +17,28 @@
 
 <div><hr></div>
 
-| ** Repositories Highlights ** | 
-|------------------------|-------------------------|------------------------------|
-| [Ai_Assistant](https://github.com/bhaavvya/Ai_Assistant) |
-| [Chatbot-ChatG](https://github.com/bhaavvya/chatbot-chatG) |
-| [RFIT:Fitness Website](https://github.com/bhaavvya/Fitness_website-RFIT) |
-| [Amazon product Analysis](https://github.com/bhaavvya/Amazon_Product_Analysis) | 
+<h1>Repository Highlights</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Repositories Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/bhaavvya/Ai_Assistant">Ai_Assistant</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bhaavvya/chatbot-chatG">Chatbot-ChatG</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bhaavvya/Fitness_website-RFIT">RFIT: Fitness Website</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bhaavvya/Amazon_Product_Analysis">Amazon Product Analysis</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
