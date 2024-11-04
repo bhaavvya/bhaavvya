@@ -11,7 +11,7 @@
 - ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements.<br>
 <br>
 <h1> :fire: My Stats :</h1>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 5px;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=highcontrast" />
     <img src="https://stats.quine.sh/bhaavvya/github?theme=highcontrast" alt="Stats"/>
