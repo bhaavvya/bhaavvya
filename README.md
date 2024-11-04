@@ -14,9 +14,9 @@
 <div style="display: flex; gap: 10px;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=highcontrast" />
-</div>
+    <img src="https://stats.quine.sh/bhaavvya/github?theme=highcontrast" alt="Stats"/>
 
-<div><img src="https://stats.quine.sh/bhaavvya/github?theme=highcontrast" alt="Stats"/></div><br>
+</div>
 
 <div><hr></div>
 
