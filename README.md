@@ -12,8 +12,8 @@
 <br>
 <h1> :fire: My Stats :</h1>
 <div style="display: flex; gap: 10px;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" width="32%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=highcontrast" width="32%" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=bhaavvya&theme=dark" width="32%" height="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=highcontrast" width="32%" height="50%"/>
     <img src="https://stats.quine.sh/bhaavvya/github?theme=highcontrast" alt="Stats" width="32%" />
 </div>
 
