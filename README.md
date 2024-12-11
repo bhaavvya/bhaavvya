@@ -12,7 +12,7 @@
 <br>
 <h1> :fire: My Stats :</h1>
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=bhaavvya&theme=highcontrast" alt="Streak Stats" width="45%" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=bhaavvya)](https://git.io/streak-stats)" alt="Streak Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=highcontrast" alt="GitHub Stats" width="45%" />
 </p>
 
