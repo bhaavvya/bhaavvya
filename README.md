@@ -12,7 +12,7 @@
 <br>
 <h1> :fire: My Stats :</h1>
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)" alt="Streak Stats" width="45%" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=bhaavvya&theme=highcontrast)](https://git.io/streak-stats)" alt="Streak Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=bhaavvya&show_icons=true&theme=highcontrast" alt="GitHub Stats" width="45%" />
 </p>
 
@@ -44,7 +44,7 @@
       <td><a href="https://github.com/bhaavvya/X_tweets_sentiment-Analysis">X_tweets_sentiment_Analysis</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bhaavvya/Data-Analysis">Data Analysis</a></td>
+      <td><a href="https://github.com/bhaavvya/CScan">CScan🔍</a></td>
     </tr>
   </tbody>
 </table>
